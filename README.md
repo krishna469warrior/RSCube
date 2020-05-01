@@ -32,6 +32,10 @@ An overview of
 * Setup/Installations required to run the solution
 Olfactory sensors, Infrared sensors, Level Indicative Sensors, Arduino, Cloud Services, Android app by the municipal corporation to receive data and to aid collection of waste in a timely manner. Grasshopper API for Route Optimization.
 
+### Video Link
+----------------------------------
+https://drive.google.com/drive/folders/1vBmTS9DF3pRARDyegqn0Gk2mbPBDL6Fi?usp=sharing
+
 ### Team Members
 ----------------------------------
 
