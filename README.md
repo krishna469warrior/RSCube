@@ -23,7 +23,7 @@ Ease of implementation : As a very small scale business (for a single house/neig
 #### Architecture Diagram
 
 Affix an image of the flow diagram/architecture diagram of the solution
-.md files don't support images
+![](Architecture%20Diagram.gif)
 
 #### Technical Description
 
